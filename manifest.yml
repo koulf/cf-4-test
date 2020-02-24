@@ -1,4 +1,4 @@
 applications:
-- name: GetStartedNode
+- name: cftest
   random-route: true
   memory: 128M
